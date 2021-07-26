@@ -1,9 +1,9 @@
 # Information
-1. This module has been tested on terraform version 0.13.3 but it should work with both terraform 12 and 13.
+1. This module has been tested on terraform version 0.13.3, but it should work with both terraform 12 and 13.
 2. The S3 module is under folder aws-s3.
 3. The source module should support most S3 common configurations.
 4. The example terraform file will create 3 buckets, each bucket should have different configurations.
-5. Change the backend when you trying to apply the change.
+5. Change the backend when you try to apply the change.
 6. Update the region if not intent to use the default region along with other variables.
 
 # Example terraform output
